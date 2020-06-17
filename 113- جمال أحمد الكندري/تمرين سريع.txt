@@ -1,0 +1,5 @@
+int a = 23;
+
+char x = 'S';
+
+double c = 89.36;
